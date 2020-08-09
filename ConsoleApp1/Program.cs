@@ -30,9 +30,6 @@ namespace App
                 }
             }
 
-
-
-
             Console.WriteLine("Пол (м или ж):");
             int k = 0;
             string gender = "";
